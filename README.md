@@ -1,6 +1,6 @@
 # One-Commander-Dev-Theme
 
-A theme for [one commander](http://www.onecommander.com)
+A theme for [one commander](http://www.onecommander.com) app.
  
  Based on this [theme](https://www.deviantart.com/kdr3w/art/Dev-825722799) color palette...
  
