@@ -21,7 +21,7 @@ a theme for [one commander](http://www.onecommander.com)
 -paste in **OneCommander"folder"\Themes**
 
 ---
-### For the FolderIcons
+### For the Folder Icons
 
 ![Image](https://i.imgur.com/pEf0mLU.png)
 ---
@@ -32,7 +32,7 @@ a theme for [one commander](http://www.onecommander.com)
 -paste in **OneCommander"folder"\Resources\FolderIcons**
 
 ---
-### For the MainFolderIcon
+### For the Main Folder Icon
 
 ![Image](https://i.imgur.com/orGeXwL.png)
 
