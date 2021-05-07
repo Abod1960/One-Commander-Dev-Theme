@@ -1,8 +1,8 @@
 # One-Commander-Dev-Theme
 
-a theme for [one commander](http://www.onecommander.com)
+A theme for [one commander](http://www.onecommander.com)
  
- based on this [theme](https://www.deviantart.com/kdr3w/art/Dev-825722799) color palette...
+ Based on this [theme](https://www.deviantart.com/kdr3w/art/Dev-825722799) color palette...
  
  Actually, I just recolored "dark theme by Milos Paripovic" to match this theme color palette...
  
