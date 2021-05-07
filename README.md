@@ -16,7 +16,7 @@ a theme for [one commander](http://www.onecommander.com)
 ---
 -copy "Dev" folder in "The Theme" folder.
 
-![Image](https://i.imgur.com/tkPbjQz.png)
+![Image](https://i.imgur.com/pcOgX1i.png)
 
 -paste in **OneCommander"folder"\Themes**
 
@@ -27,7 +27,7 @@ a theme for [one commander](http://www.onecommander.com)
 ---
 -copy "Dev" folder in "FolderIcons" folder.
 
-![Image](https://i.imgur.com/bSJOqKM.png)
+![Image](https://i.imgur.com/nXklk3y.png)
 
 -paste in **OneCommander"folder"\Resources\FolderIcons**
 
@@ -38,7 +38,7 @@ a theme for [one commander](http://www.onecommander.com)
 
 -copy the *png* file in "MainFolderIcon" folder.
 
-![Image](https://i.imgur.com/bw8mKpT.png)
+![Image](https://i.imgur.com/9CacYhp.png)
 
 -paste in paste in **OneCommander"folder"\Resources\MainFolderIcon**
 
