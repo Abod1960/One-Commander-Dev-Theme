@@ -55,7 +55,7 @@
     <!--  Highlighted Text, like GB portion of file size, or number of selected files. Can be the same as TextPrimaryBrush to keep the same color  -->
     <SolidColorBrush x:Key="TextImportantBrush" Color="#0f92fe" />
 
-
+    <SolidColorBrush x:Key="AccentBrushForced" Color="#333A49" />
 
 
     <!--  Secondary Text, like extension in File, or path in Favorites  -->
@@ -345,15 +345,15 @@
         <!--<Setter Property="BorderBrush" Value="Gray" />
         <Setter Property="BorderThickness" Value="0,1,0,1" />-->
     </Style>
-    <SolidColorBrush x:Key="MessageSuccessBackgroundBrush" Color="DarkGreen" />
-    <SolidColorBrush x:Key="MessageErrorBackgroundBrush" Color="DarkRed" />
+    <SolidColorBrush x:Key="MessageSuccessBackgroundBrush" Color="#2A9727" />
+    <SolidColorBrush x:Key="MessageErrorBackgroundBrush" Color="#A62B37" />
     <SolidColorBrush x:Key="MessageInfoBackgroundBrush" Color="Transparent" />
 
     <!--  Other  -->
 
     <SolidColorBrush x:Key="ScrollBarTrackBrush" Color="#20888888" />
-    <SolidColorBrush x:Key="ScrollBarThumbBrush" Color="#ae888888" />
-    <SolidColorBrush x:Key="ScrollBarThumbHoverBrush" Color="#c0888888" />
+    <SolidColorBrush x:Key="ScrollBarThumbBrush" Color="#333A49" />
+    <SolidColorBrush x:Key="ScrollBarThumbHoverBrush" Color="#242934" />
 
     <!--  For background overlay when popup is open  -->
     <SolidColorBrush
@@ -435,7 +435,7 @@
     <CornerRadius x:Key="UICornerRadius">3</CornerRadius>
     <!--  for some buttons for now  -->
 
-    <SolidColorBrush x:Key="TooltipBackgroundBrush" Color="#575558" />
+    <SolidColorBrush x:Key="TooltipBackgroundBrush" Color="#242934" />
 
     <!--  Line indicating Files Panel has been scrolled; may be renamed/removed in the future  -->
     <SolidColorBrush x:Key="BrushDimGraphics" Color="#777777" />
