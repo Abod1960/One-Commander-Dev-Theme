@@ -1,10 +1,10 @@
-# One-Commander-Dev-Theme
+<h1 align = "center">One-Commander-Dev-Theme</h1>
 
 A theme for [one commander](http://www.onecommander.com) app.
  
- Based on this [theme](https://www.deviantart.com/kdr3w/art/Dev-825722799) color palette...
+Based on this [theme](https://www.deviantart.com/kdr3w/art/Dev-825722799) color palette...
  
- Actually, I just recolored "dark theme by Milos Paripovic" to match this theme color palette...
+Actually, I just recolored "dark theme by Milos Paripovic" to match this theme color palette...
  
  
 ## Instructions
