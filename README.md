@@ -17,7 +17,7 @@ A theme for [one commander](http://www.onecommander.com) app.
 
 ![Image](https://i.imgur.com/pcOgX1i.png)
 
-- paste in **OneCommander"folder"\Themes**
+- paste in **"OneCommander folder"\Themes**
 
 ---
 ### For the Folder Icons
@@ -29,7 +29,7 @@ A theme for [one commander](http://www.onecommander.com) app.
 
 ![Image](https://i.imgur.com/nXklk3y.png)
 
-- paste in **OneCommander"folder"\Resources\FolderIcons**
+- paste in **"OneCommander folder"\Resources\FolderIcons**
 
 ---
 ### For the Main Folder Icon
