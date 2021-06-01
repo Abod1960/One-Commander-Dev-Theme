@@ -42,4 +42,4 @@ A theme for [one commander](http://www.onecommander.com) app.
 
 - paste in paste in **OneCommander"folder"\Resources\MainFolderIcon**
 
-  # if you want to support me you can buy it on [gurmoad](https://gumroad.com/l/NVitO)
+# if you want to support me you can buy it on [gurmoad](https://gumroad.com/l/NVitO)
