@@ -44,4 +44,7 @@ Actually, I just recolored "dark theme by Milos Paripovic" to match this theme c
 
 # if you want to support me you can buy it on [gurmoad](https://gumroad.com/l/NVitO)
 
+## 📩 License
 
+Copyright © 2021 [Abod1960](https://github.com/Abod1960)<br />
+This project is licensed under the [MIT](https://github.com/Abod1960/One-Commander-Dev-Theme/blob/main/LICENSE) license.
