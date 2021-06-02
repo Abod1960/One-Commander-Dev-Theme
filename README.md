@@ -7,7 +7,7 @@ Based on this [theme](https://www.deviantart.com/kdr3w/art/Dev-825722799) color 
 Actually, I just recolored "dark theme by Milos Paripovic" to match this theme color palette...
  
  
-## Instructions
+## 🧾 Instructions
 
 
 ### For the Theme
@@ -43,3 +43,5 @@ Actually, I just recolored "dark theme by Milos Paripovic" to match this theme c
 - paste in paste in **OneCommander"folder"\Resources\MainFolderIcon**
 
 # if you want to support me you can buy it on [gurmoad](https://gumroad.com/l/NVitO)
+
+
