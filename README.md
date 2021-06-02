@@ -42,9 +42,31 @@ Actually, I just recolored "dark theme by Milos Paripovic" to match this theme c
 
 - paste in paste in **OneCommander"folder"\Resources\MainFolderIcon**
 
-# if you want to support me you can buy it on [gurmoad](https://gumroad.com/l/NVitO)
+## ✏ Author
+
+🕴 **Abod1960**
+
+* 🌐 Website: no website yet 😅
+* 💻 GitHub: [@Abod1960](https://github.com/Abod1960)
+* 🎨 ArtStation: [Abod1960](https://www.artstation.com/abod1960)
+*  ✉ Gmail: abod1960.work@gmail.com
+*   🖼 DeviantArt: [Abod1960](https://www.deviantart.com/abod1960)
+
+
+## 🌟 Show your support
+
+Give a ⭐️ if you like this project!<br>
+Also you can support me buying this on [gurmoad](https://gumroad.com/l/NVitO)
+
+## 📝 Note
+
+colors are adjustable<br>
+you can edit with your own preferences 
 
 ## 📩 License
 
 Copyright © 2021 [Abod1960](https://github.com/Abod1960)<br />
 This project is licensed under the [MIT](https://github.com/Abod1960/One-Commander-Dev-Theme/blob/main/LICENSE) license.
+
+# if you want to support me you can buy it on [gurmoad](https://gumroad.com/l/NVitO)
+
