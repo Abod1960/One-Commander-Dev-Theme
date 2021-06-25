@@ -70,5 +70,5 @@ you can edit with your own preferences
 Copyright © 2021 [Abod1960](https://github.com/Abod1960)<br />
 This project is licensed under the [MIT](https://github.com/Abod1960/One-Commander-Dev-Theme/blob/main/LICENSE) license.
 
-# if you want to support me you can buy it on [gurmoad](https://gumroad.com/l/NVitO)
+# if you want to support me you can buy it on [gumroad](https://gumroad.com/l/NVitO)
 
