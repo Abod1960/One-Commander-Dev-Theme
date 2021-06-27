@@ -52,7 +52,7 @@ Actually, I just recolored "dark theme by Milos Paripovic" to match this theme c
 
 🍀 And Here is a Discord theme: [Translucence Dev Theme](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/tree/master/Themes/Translucence-Dev).
 
-▶ And here is a theme for YouTube App: [Dev-YT-Theme](https://github.com/Abod1960/Dev-YT-Theme).
+▶ And here is a theme for YouTube: [Dev-YT-Theme](https://github.com/Abod1960/Dev-YT-Theme).
 
 ## ✏ Author
 
@@ -63,6 +63,7 @@ Actually, I just recolored "dark theme by Milos Paripovic" to match this theme c
 * 🎨 ArtStation: [Abod1960](https://www.artstation.com/abod1960)
 *  ✉ Gmail: abod1960.work@gmail.com
 *   🖼 DeviantArt: [Abod1960](https://www.deviantart.com/abod1960)
+*   💬 Discord: [Abod1960#5514](https://discord.com/users/750369816279253083)<br>
 
 
 ## 🌟 Show your support
